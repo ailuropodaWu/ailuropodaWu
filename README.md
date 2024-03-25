@@ -1,4 +1,13 @@
 ### Hi there 👋
+### About me
+- Junior in NYCU
+- Computer Science Major
+- Cross-Disciplinary Program of FineTech
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ailuropodaWu&theme=transparent)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ailuropodaWu&theme=transparent)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ailuropodaWu&theme=transparent)
+
+
 
 <!--
 **ailuropodaWu/ailuropodaWu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
