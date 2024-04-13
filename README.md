@@ -1,5 +1,5 @@
 ### Hi there 👋
-## About me 🦖
+## About me 🦖⭐
 Hi, I'm Chuan-Yu. You can also call me Patrick. I have been interested in programming🖥️ since my second year in high school. My favorite fields are CV, NLP, and robotics manipulation learning. My hobbies include cooking, watching movies🎥, and traveling🌏. I am also passionate about finding delicious food🍖 in the city, so please let me know if you have any recommendations. As junior in college, I am working on my graduation project and looking for an internship to gain practical experience.
 
 
