@@ -6,7 +6,7 @@ Hi, I'm Chuan-Yu. You can also call me Patrick. I have been interested in progra
 ### Education
 - **M.S. in Computer Science - National Taiwan University** ***NTU***
   - *First year*
-  - *Advised by Winston Hsu*
+  - *Advised by Prof. Winston Hsu*
 - **B.S. in Computer Science - National Yang Ming Chiao Tung University** ***NYCU*** 🎓
   - *Graduated in Jan. 2025*
   - *Cross-Disciplinary Program of FineTech*
