@@ -4,7 +4,8 @@ Hi, I'm Chuan-Yu. You can also call me Patrick. I have been interested in progra
 
 
 ### Education
-- **M.S. in Computer Science - National Taiwan University** ***NTU***
+- **M.S. in Computer Science and Information Engineering - National Taiwan University** ***NTU***
+  - *Master Program of Artificial Intelligence*
   - *First year*
   - *Advised by Prof. Winston Hsu*
 - **B.S. in Computer Science - National Yang Ming Chiao Tung University** ***NYCU*** 🎓
