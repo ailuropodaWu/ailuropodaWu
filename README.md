@@ -7,10 +7,11 @@ Hi, I'm Chuan-Yu. You can also call me Patrick. I have been interested in progra
 - **M.S. in Computer Science and Information Engineering - National Taiwan University** ***NTU***
   - *Master Program of Artificial Intelligence*
   - *First year*
-  - *Advised by Prof. Winston Hsu*
+  - *Advisor: Prof. Winston H. Hsu*
 - **B.S. in Computer Science - National Yang Ming Chiao Tung University** ***NYCU*** 🎓
   - *Graduated in Jan. 2025*
   - *Cross-Disciplinary Program of FineTech*
+  - *Advisor: Prof. Yi-Ting Chen*
 - **Taichung First Senior High School** ***TCFSH*** 🎓
   - *Graduated in Jun. 2021*
 
